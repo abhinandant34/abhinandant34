@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ⚙ Statistics
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhinandant34&theme=react-dark&hide_border=true"/>
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=abhinandant34&show_icons=true&theme=tokyonight">
