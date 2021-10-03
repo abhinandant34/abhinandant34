@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ## ⚙ Statistics
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhinandant34&theme=react-dark&hide_border=true"/>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=abhinandant34&show_icons=true&theme=tokyonight">
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=abhiandant34.visitor-badge"> 
